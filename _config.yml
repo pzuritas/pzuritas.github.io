@@ -56,14 +56,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: pzuritas # your GitHub user name
 #gitlab_username: # your GitLab user name
-#twitter_username: # your Twitter handle
+twitter_username: pablozuritas # your Twitter handle
 linkedin_username: pablo-zurita-soler # your LinkedIn user name
 #scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-3417-9454 # your ORCID ID
 #medium_username: # your Medium username
 #quora_username: Pablo-Zurita-2 # your Quora username
 #publons_id: # your ID on Publons
-#research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Pablo-Zurita # your profile on ResearchGate
 #blogger_url: # your blogger URL
 #work_url: # work page URL
 #keybase_username: # your keybase user name
@@ -260,7 +260,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
