@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Here you'll find my teaching activities.
 nav: true
 nav_order: 2
 ---
