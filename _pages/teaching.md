@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-## As teaching assistant
+### as teaching assistant
 
 **Applications of PDEs and Functional Analysis** - _Institute for Mathematical and Computational Engineering, PUC_  
 2022-1
