@@ -12,7 +12,7 @@ I come from a long, thin and beautiful country called [Chile](https://en.wikiped
 
 **MSc. Engineering Sciences** - _Pontificia Universidad Católica de Chile_ (2022)  
 Thesis advised by Dr. [Daniel E. Hurtado](https://www.researchgate.net/profile/Daniel-Hurtado-4)  
-Thesis title: Modeling Bloodflow and Gas Exchange in Alveoli
+Thesis: [Modeling Bloodflow and Gas Exchange in Alveoli](https://repositorio.uc.cl/xmlui/bitstream/handle/11534/66192/TESIS_PZurita.pdf)  
 Coursework on Computational Medicine and Applied and Computational Mathematics
 
 **BSc. Engineering Sciences** - _Pontificia Universidad Católica de Chile_ (2020)  
