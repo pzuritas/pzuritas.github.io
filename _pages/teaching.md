@@ -5,6 +5,10 @@ title: teaching
 nav: true
 nav_order: 2
 ---
+### as lecturer
+
+**Introduction to Biomechanics** - _Institute for Biological and Medical Engineering, PUC_  
+2023-1
 
 ### as teaching assistant
 
