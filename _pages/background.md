@@ -10,6 +10,10 @@ I come from a long, thin and beautiful country called [Chile](https://en.wikiped
 
 ### education
 
+**PhD. Mathematics** - _Imperial College London_ (expected 2027)  
+Thesis advised by Dr. [Eric Keaveny](https://www.ma.imperial.ac.uk/~ekeaveny/)  
+Working on mathematical modelling of biomechanics
+
 **MSc. Engineering Sciences** - _Pontificia Universidad Católica de Chile_ (2022)  
 Thesis advised by Dr. [Daniel E. Hurtado](https://www.researchgate.net/profile/Daniel-Hurtado-4)  
 Thesis: [Modeling Bloodflow and Gas Exchange in Alveoli](https://repositorio.uc.cl/xmlui/bitstream/handle/11534/66192/TESIS_PZurita.pdf)  
