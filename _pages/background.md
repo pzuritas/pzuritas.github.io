@@ -12,7 +12,7 @@ I come from a long, thin and beautiful country called [Chile](https://en.wikiped
 
 **PhD. Mathematics** - _Imperial College London_ (expected 2027)  
 Thesis advised by Dr. [Eric Keaveny](https://www.ma.imperial.ac.uk/~ekeaveny/)  
-Working on mathematical modelling of biomechanics
+Working on mathematical modelling of ciliated cells
 
 **MSc. Engineering Sciences** - _Pontificia Universidad Católica de Chile_ (2022)  
 Thesis advised by Dr. [Daniel E. Hurtado](https://www.researchgate.net/profile/Daniel-Hurtado-4)  
