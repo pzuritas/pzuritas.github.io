@@ -12,6 +12,9 @@ nav_order: 2
 
 ### as teaching assistant
 
+**Linear Algebra and Numerical Analysis** - _Department of Mathematics, Imperial College London_
+2024-Spring
+
 **Applications of PDEs and Functional Analysis** - _Institute for Mathematical and Computational Engineering, PUC_  
 2022-1
 
