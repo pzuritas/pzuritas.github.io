@@ -6,9 +6,9 @@ nav: true
 nav_order: 2
 ---
 
-_Partial differential equations in biomedicine._
+_Differential equations in pathophysiology._
 
-The human body is a marvellous collection of systems where different kinds of physics are constantly at play. From cells to full organs, different elements in the body work across scales for the people who inhabit them, enabling them to live good lives. These systems can and do fail, and we can strive for a better understanding of how to fix these systems by looking at their underlying principles. My research is focused on the applications of mathematical analysis (based on differential equations) for the understanding of biophysical principles, and the development of computational tools to explore the functioning of biophysical systems.
+The human body is a marvellous collection of systems where different kinds of physics are constantly at play. From cells to full organs, different elements in the body work across scales for the people who inhabit them, enabling them to live good lives. These systems can and do fail, and we can strive for a better understanding of how to fix these systems by looking at their underlying principles. My research is focused on the applications of mathematical analysis (based on differential equations) for the understanding of biophysical principles, and the development of computational tools to explore the functioning of biophysical systems. I am mostly interested in modelling at the tissue level, with multiscale connections to cells and systems.
 
 # Bloodflow and gas exchange
 
