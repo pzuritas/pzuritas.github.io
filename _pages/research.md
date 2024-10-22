@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /research/
-title: research
 nav: true
 nav_order: 2
 ---
@@ -10,7 +9,7 @@ _Differential equations in pathophysiology._
 
 The human body is a marvellous collection of systems where different kinds of physics are constantly at play. From cells to full organs, different elements in the body work across scales for the people who inhabit them, enabling them to live good lives. These systems can and do fail, and we can strive for a better understanding of how to fix these systems by looking at their underlying principles. My research is focused on the applications of mathematical analysis (based on differential equations) for the understanding of biophysical principles, and the development of computational tools to explore the functioning of biophysical systems. I am mostly interested in modelling at the tissue level, with multiscale connections to cells and systems.
 
-# Bloodflow and gas exchange
+### Bloodflow and gas exchange
 
 _Porous media fluid mechanics_, _nonlinear elasticity_, _transport phenomena_, _finite element methods_, _nonlinear analysis_.
 
@@ -18,7 +17,7 @@ Alveoli are the little structures in your lungs where oxygen enters the bloodstr
 
 <!-- The system of equations turned out to be quite interesting, and with the guidance of [Dr. Nicolás A. Barnafi Wittwer](https://nabw.github.io/about.html), we [analysed]() it to uncover some fundamental properties regarding the behaviour of the system and its relationship to biomedical parameters that may be of interest to health professionals. -->
 
-# Cilia coordination
+### Cilia coordination
 
 _Low Reynolds number fluid mechanics_, _fluid-structure interaction_, _high performance computing_.
 

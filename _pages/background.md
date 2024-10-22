@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /background/
-title: background
 nav: true
 nav_order: 2
 ---
