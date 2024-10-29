@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.imperial.ac.uk/mathematics/'>Department of Mathematics, Imperial College London</a>.
 

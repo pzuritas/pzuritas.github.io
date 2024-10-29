@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
+title: Teaching
 nav: true
 nav_order: 2
 ---
-### as lecturer
+### As lecturer
 
 **Introduction to Biomechanics** - _Institute for Biological and Medical Engineering, PUC_  
 2023-1
 
-### as teaching assistant
+### As teaching assistant
+
+**Multivariable Calculus and Differential Equations** - _Department of Mathematics, Imperial College London_
+2024-Autumn
 
 **Linear Algebra and Numerical Analysis** - _Department of Mathematics, Imperial College London_
 2024-Spring
