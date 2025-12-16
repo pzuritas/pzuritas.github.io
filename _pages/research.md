@@ -8,7 +8,7 @@ nav_order: 3
 
 My main interests lie in the applications of mathematical analysis in biomedicine. This includes developing new models in pathophysiology, analysing their structure and developing numerical methods to explore them. Here are some of the projects that I've been involved with so far!
 
-### Microscale hemodynamics and gas exchange
+## microscale hemodynamics and gas exchange
 
 _Porous media fluid mechanics_, _nonlinear elasticity_, _transport phenomena_, _finite element methods_, _nonlinear analysis_.
 
@@ -16,7 +16,7 @@ Alveoli are the little structures in your lungs where oxygen enters the bloodstr
 
 <!-- The system of equations turned out to be quite interesting, and with the guidance of [Dr. Nicolás A. Barnafi Wittwer](https://nabw.github.io/about.html), we [analysed]() it to uncover some fundamental properties regarding the behaviour of the system and its relationship to biomedical parameters that may be of interest to health professionals. -->
 
-### Ciliated tissue biomechanics
+## ciliated tissue biomechanics
 
 _Low Reynolds number fluid mechanics_, _fluid-structure interaction_, _high performance computing_.
 

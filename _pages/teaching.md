@@ -6,12 +6,12 @@ description:
 nav: true
 nav_order: 4
 ---
-### As lecturer
+## as lecturer
 
 **Introduction to Biomechanics** - _Institute for Biological and Medical Engineering, PUC_  
 2023-1
 
-### As teaching assistant
+## as teaching assistant
 
 **Multivariable Calculus and Differential Equations** - _Department of Mathematics, Imperial College London_
 2024-Autumn
