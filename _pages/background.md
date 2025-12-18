@@ -17,7 +17,7 @@ Working on mathematical modelling of ciliated tissue
 **MSc. Engineering Sciences** - _Pontificia Universidad Católica de Chile_ (2022)  
 Thesis advised by Prof. [Daniel E. Hurtado](https://www.researchgate.net/profile/Daniel-Hurtado-4)  
 Thesis: [Modeling Bloodflow and Gas Exchange in Alveoli](https://repositorio.uc.cl/xmlui/bitstream/handle/11534/66192/TESIS_PZurita.pdf)  
-Coursework on Computational Medicine and Applied and Computational Mathematics
+Coursework on computational medicine and applied and computational Mathematics
 
 **BSc. Engineering Sciences** - _Pontificia Universidad Católica de Chile_ (2020)  
 Major in **Biomedical Engineering**  
